@@ -1,0 +1,4 @@
+<FilesMatch "Addblooddb\.php|Auth\.php|authCookieSessionValidate\.php|database\.sql|Util\.php|DBController\.php>
+  Order allow,deny
+  Deny from all
+</FilesMatch>
